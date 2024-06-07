@@ -8,4 +8,4 @@
 
 4.The HTML(Hypertext Markup Language) is used to design the layout/structure of the webpage and CSS(Cascading Stylesheet) is used to style the webpage.
 
-5.In this, we also used Javascript to make more responsive webpage.
+5.In this, we also used Javascript to make more responsive webpages.
